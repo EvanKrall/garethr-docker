@@ -4,8 +4,6 @@ author "Gareth Rushgrove"
 start on (started docker)
 stop on runlevel [!2345]
 
-setuid root
-
 respawn
 respawn limit 5 20
 
