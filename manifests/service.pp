@@ -40,7 +40,6 @@ class docker::service (
 
       file { '/etc/init.d/docker':
           ensure => 'absent',
-          notify => Service['docker'],
       }
 
       file { '/etc/default/docker':
