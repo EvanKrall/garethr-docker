@@ -23,4 +23,5 @@ class docker::params {
   $storage_driver               = undef
   $manage_package               = true
   $manage_kernel                = true
+  $tmp_dir                      = '/tmp/'
 }
