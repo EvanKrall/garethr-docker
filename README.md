@@ -9,6 +9,8 @@ Status](https://secure.travis-ci.org/garethr/garethr-docker.png)](http://travis-
 
 ## Usage
 
+[![Join the chat at https://gitter.im/EvanKrall/garethr-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EvanKrall/garethr-docker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The module includes a single class:
 
 ```puppet
